@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Report a problem with this project
+title: '[BUG] '
+labels: 'bug'
+
+---
+
 ## *Who* is the bug affecting?
 
 ## *What* is affected by this bug?
