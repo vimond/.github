@@ -29,7 +29,7 @@
 
 > If this PR implements changes related to one or more JIRA tickets please:
 >
-> - Add the tickets ids in the title, e.g: SR-1234
+> - Add the tickets ids in the title
 > - Add a link to each of the related tickets
 
 ## Dependencies
